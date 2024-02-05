@@ -1,4 +1,3 @@
-# Website : https://selvarajakash.github.io/ReactShopCart/
 
 # Getting Started with Create React App
 
